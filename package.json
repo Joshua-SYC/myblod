@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vuepress-plugin-helper-live2d": "^1.0.0"
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5"
   }
 }
